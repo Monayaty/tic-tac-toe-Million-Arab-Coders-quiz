@@ -1,0 +1,27 @@
+body
+{
+  background-color:#02b3e4;
+}
+ul
+{
+  color :#02b3e4;
+  list-style-type : none;
+  display:flex;
+  flex-wrap:wrap;
+  width:360px;
+  height:360px;
+  padding:200px;
+  margin: auto;
+
+}
+li
+{
+  background-color : white;
+  width:100px;
+  height:100px;
+  padding :5px;
+  margin:5px;
+  text-align: center;
+  font-size:90px;
+  font-family: sans-serif;
+}
